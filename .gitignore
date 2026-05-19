@@ -1,0 +1,6 @@
+bot_yapis/.env
+__pycache__/
+*.pyc
+.venv/
+build/
+/package-lock.json
